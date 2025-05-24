@@ -16,9 +16,8 @@
     A cada leitura, a temperatura é impressa via USB serial (no terminal do computador).
     O LED aceso muda em ciclos (ex: R → G → B) a cada leitura.
     O loop principal roda continuamente, verificando se é hora de executar as tarefas. 
-    Link GitHub: https://github.com/ValmirMesquita/UNIDADE-I-Cap-tulo-08/tree/main/pico_w_led
+    Link GitHub: https://github.com/ValmirMesquita/ATIVIDADE-Cap-09/tree/main/tempoCicloDMA
     
-
  */
 
 
